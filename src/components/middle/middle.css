@@ -1,0 +1,57 @@
+.middleWrapper {
+
+    padding-bottom: 3rem;
+}
+
+.middle {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.middleLeft {
+
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    column-gap: 5%;
+}
+.middleMiddle {
+
+    text-align: center;
+}
+
+.bstPrice {
+
+    font-size: 80px;
+    color: white;
+}
+
+.middleRight {
+
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    column-gap: 5%;
+}
+
+.mPval {
+
+    font-weight: 400;
+    font-size: 40px;
+    color: #5dc7c2;
+}
+
+.timeSpan {
+
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 0.45;
+    color: #fff;
+    text-align: center;
+}
+
